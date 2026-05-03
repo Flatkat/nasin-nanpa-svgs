@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg1"
+   sodipodi:docname="namakoTok-280.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.45"
+     inkscape:cx="232.22222"
+     inkscape:cy="380"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="currentColor"
+     d="m 293.5,203 c 0,-25 21,-49 51,-49 19,0 37,12 45,31 l 38,92 c 3,7 4,14 4,20 0,25 -21,49 -51,49 -19,0 -37,-12 -45,-31 l -38,-92 c -3,-7 -4,-14 -4,-20 z m 487,-49 c 30,0 51,24 51,49 0,6 -1,13 -4,20 l -38,92 c -8,19 -26,31 -45,31 -30,0 -51,-24 -51,-49 0,-6 1,-13 4,-20 l 38,-92 c 8,-19 26,-31 45,-31 z m -218,-54 c 28,0 50,22 50,50 v 100 c 0,28 -22,50 -50,50 -28,0 -50,-22 -50,-50 V 150 c 0,-28 22,-50 50,-50 z m -354,800 c -26,0 -50,-20 -50,-50 0,-15 6,-30 18,-39 92,-75 135,-118 158,-164 22,-45 28,-97 28,-197 0,-28 22,-50 50,-50 28,0 50,22 50,50 0,100 -4,173 -38,241 -18,36 -43,68 -76,102 123,-14 196,-46 239,-88 57,-55 75,-136 75,-255 0,-28 22,-50 50,-50 28,0 50,22 50,50 0,124 -18,242 -106,327 -87,84 -229,123 -448,123 z"
+     id="path1" />
+</svg>
