@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="-10 0 1010 1000"
+   viewBox="0 0 900 900"
    id="svg1"
    sodipodi:docname="sikeTok-252.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="900"
+   height="900"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.9"
-     inkscape:cx="505"
-     inkscape:cy="500"
+     inkscape:cx="459.44444"
+     inkscape:cy="450"
      inkscape:window-width="1920"
      inkscape:window-height="1145"
      inkscape:window-x="0"
@@ -31,6 +33,6 @@
      inkscape:current-layer="svg1" />
   <path
      fill="currentColor"
-     d="M 495,750 C 357,750 245,638 245,500 245,362 357,250 495,250 633,250 745,362 745,500 745,638 633,750 495,750 Z M 645,500 c 0,-83 -67,-150 -150,-150 -83,0 -150,67 -150,150 0,83 67,150 150,150 83,0 150,-67 150,-150 z M 495,950 C 246,950 45,749 45,500 45,251 246,50 495,50 744,50 945,251 945,500 945,749 744,950 495,950 Z m 0,-100 C 688,850 845,693 845,500 845,307 688,150 495,150 302,150 145,307 145,500 c 0,193 157,350 350,350 z"
+     d="M 450,700 C 312,700 200,588 200,450 200,312 312,200 450,200 588,200 700,312 700,450 700,588 588,700 450,700 Z M 600,450 c 0,-83 -67,-150 -150,-150 -83,0 -150,67 -150,150 0,83 67,150 150,150 83,0 150,-67 150,-150 z M 450,900 C 201,900 0,699 0,450 0,201 201,0 450,0 699,0 900,201 900,450 900,699 699,900 450,900 Z m 0,-100 C 643,800 800,643 800,450 800,257 643,100 450,100 257,100 100,257 100,450 c 0,193 157,350 350,350 z"
      id="path1" />
 </svg>

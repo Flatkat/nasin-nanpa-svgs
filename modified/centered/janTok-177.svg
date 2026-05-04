@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="-10 0 1010 1000"
+   viewBox="0 0 899 900"
    id="svg1"
    sodipodi:docname="janTok-177.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="899"
+   height="900"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,17 +22,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.45"
-     inkscape:cx="432.22222"
-     inkscape:cy="546.66667"
+     inkscape:zoom="0.6363961"
+     inkscape:cx="527.18739"
+     inkscape:cy="502.83149"
      inkscape:window-width="1920"
      inkscape:window-height="1145"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showgrid="true" />
   <path
      fill="currentColor"
-     d="m 194.5,450 c 0,166 134,300 300,300 166,0 300,-134 300,-300 0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 z m -99,500 c -27,0 -50,-22 -50,-50 0,-14 6,-28 17,-38 l 150,-128 c -73,-72 -118,-173 -118,-284 0,-221 179,-400 400,-400 221,0 400,179 400,400 0,111 -45,212 -118,284 l 150,128 c 12,10 18,24 18,38 0,27 -24,50 -50,50 -11,0 -23,-4 -32,-12 l -167,-142 c -59,34 -128,54 -201,54 -73,0 -142,-20 -201,-54 l -165,142 c -10,8 -21,12 -33,12 z"
+     d="M 149,400 C 149,566 283,700 449,700 615,700 749,566 749,400 749,234 615,100 449,100 283,100 149,234 149,400 Z M 50,900 C 23,900 0,878 0,850 0,836 6,822 17,812 L 167,684 C 94,612 49,511 49,400 49,179 228,0 449,0 670,0 849,179 849,400 849,511 804,612 731,684 l 150,128 c 12,10 18,24 18,38 0,27 -24,50 -50,50 -11,0 -23,-4 -32,-12 L 650,746 c -59,34 -128,54 -201,54 -73,0 -142,-20 -201,-54 L 83,888 c -10,8 -21,12 -33,12 z"
      id="path1" />
 </svg>
